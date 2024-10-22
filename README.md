@@ -1,1 +1,2 @@
 # Technical-Task--Stage-2
+You can find datasets in this link: https://eigcom-my.sharepoint.com/personal/elnur_bakhtiiarov_researchlab_digital/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Felnur%5Fbakhtiiarov%5Fresearchlab%5Fdigital%2FDocuments%2FDesktop%2FMan%2FTasks%20for%20candidates%2FAI%20PTA%2Ffinal%2FSection%201%20and%203%20data%2Erar&parent=%2Fpersonal%2Felnur%5Fbakhtiiarov%5Fresearchlab%5Fdigital%2FDocuments%2FDesktop%2FMan%2FTasks%20for%20candidates%2FAI%20PTA%2Ffinal&ga=1
