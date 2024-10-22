@@ -1,1 +1,1 @@
-# Technical-Task--Satge-2
+# Technical-Task--Stage-2
